@@ -1,18 +1,29 @@
-## Getting Started
+## Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to Lexicron! This is a 2d typing game with special character designs and animations.
+The game is all about a simple boss fight, typing as much words as you can until you defeat the boss.
 
-## Folder Structure
+## How to change the words
 
-The workspace contains two folders by default, where:
+Look for the file folder that should be in:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+```
+lexicron/
+└── src/
+    └── main/
+        └── words/
+            └── textfiles/
+                └── words.txt
+```
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Inside thet ext file, you can add, replace, and delete words that you'd like.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Creator
 
-## Dependency Management
+This project was created by Roshley Sumalpong (yak3ru) on Github.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## License
+
+This project is licensed under the MIT License.
+
+All rights reserved for game Music and Fonts.
