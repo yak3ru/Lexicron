@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lexicron:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lexicron_jar</output-path>
+    <root id="archive" name="lexicron.jar">
+      <element id="module-output" name="lexicron" />
+    </root>
+  </artifact>
+</component>
